@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imagesURL</key>
+	<string>http://img.olx.pt/images_olxpt/KEY_SLOT_WIDTHxHEIGHT_SLUG.jpg</string>
+	<key>serviceURL</key>
+	<string>https://olx.pt/i2/ads/?json=1&amp;search[category_id]=25</string>
+</dict>
+</plist>
